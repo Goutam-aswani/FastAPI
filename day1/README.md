@@ -15,19 +15,6 @@ It demonstrates building APIs using FastAPI with examples of routing, request/re
 
 ---
 
-## 📂 Project Structure
-
-day1/
-├── api.py # Core API endpoints
-├── CRUD.py # CRUD operations logic
-├── data.json # Sample data storage
-├── mainn.py # Main FastAPI app entry point
-├── sort_using_query_params.py # Example: sorting via query params
-├── status_codes.py # Handling and returning status codes
-├── validate_requests.py # Request validation with Pydantic
-
----
-
 ✨ Features Demonstrated
 ✅ CRUD operations
 ✅ Query parameters and sorting
