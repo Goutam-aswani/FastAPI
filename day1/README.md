@@ -16,8 +16,14 @@ It demonstrates building APIs using FastAPI with examples of routing, request/re
 ---
 
 ✨ Features Demonstrated
+
 ✅ CRUD operations
+
 ✅ Query parameters and sorting
+
 ✅ Request body validation with Pydantic
+
 ✅ Custom status codes
+
 ✅ Async endpoints for better performance
+
