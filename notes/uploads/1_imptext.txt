@@ -1,0 +1,56 @@
+autopep8 --in-place --aggressive --aggressive 
+pycodestyle 
+day9Django
+Make sure you select the correct Python interpreter/environment (bottom right part of the window).
+
+cmd.exe
+
+C:\> <venv>\Scripts\activate.bat
+
+PowerShell
+
+PS C:\> <venv>\Scripts\Activate.ps1
+
+
+PyPI recovery codes
+23cc8814be7fa5f4
+cfd852290425016d
+756ec6010d3af762
+25437d3dd7ea286e
+9600665dbfabee05
+e197e4ed3c9b33f2
+bfb661e0454ea040
+5ee1ee5defef2b5e
+
+pypi-AgENdGVzdC5weXBpLm9yZwIkNzA5NTJmOTUtZjJlMS00MDMyLThiZWItNDgwOTg4YjY3OWQwAAIqWzMsIjA1ZmMwMzAyLWNlODItNGYyOS1iNWI3LWVmMDM0ODQ4NWNhYiJdAAAGIAlWTqkFfuJqhCmLZ8Wv73rJgRhLWb6oHjUKpLZE7N_I
+AgENdGVzdC5weXBpLm9yZwIkNzA5NTJmOTUtZjJlMS00MDMyLThiZWItNDgwOTg4YjY3OWQwAAIqWzMsIjA1ZmMwMzAyLWNlODItNGYyOS1iNWI3LWVmMDM0ODQ4NWNhYiJdAAAGIAlWTqkFfuJqhCmLZ8Wv73rJgRhLWb6oHjUKpLZE7N_I
+
+pypi-AgENdGVzdC5weXBpLm9yZwIkMzkxY2ZkMmYtMDFkMy00NTY1LWJlODctMDA5YmFiNWM4MDhmAAIqWzMsIjA1ZmMwMzAyLWNlODItNGYyOS1iNWI3LWVmMDM0ODQ4NWNhYiJdAAAGINO_osV932u_UERoXqNpEqigY6GQYOl3i1nLWaqFnP1U
+
+AgENdGVzdC5weXBpLm9yZwIkMzkxY2ZkMmYtMDFkMy00NTY1LWJlODctMDA5YmFiNWM4MDhmAAIqWzMsIjA1ZmMwMzAyLWNlODItNGYyOS1iNWI3LWVmMDM0ODQ4NWNhYiJdAAAGINO_osV932u_UERoXqNpEqigY6GQYOl3i1nLWaqFnP1U
+
+google app - mcft lnzi azlg rqus
+
+
+These are the initial fields of AbstractUser class which default User class has as shown below:
+
+id
+password
+last_login
+is_superuser
+username (Special, Unique Constraint)
+first_name
+last_name
+email (Special)
+is_staff
+is_active
+date_joined
+    
+https://downgit.evecalm.com/#/home
+
+celery -A your_project_name worker --concurrency=1 --loglevel=info
+
+celery -A project_name worker  --loglevel=info --pool=solo 
+
+celery -A project_name beat  --loglevel=info
+
