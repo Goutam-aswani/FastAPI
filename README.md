@@ -49,10 +49,11 @@ The API will now be running at http://127.0.0.1:8000.
 
 4. Explore the API
 You can interact with the API using the automatically generated documentation:
-
+```bash
 Swagger UI: http://127.0.0.1:8000/docs
 
 ReDoc: http://127.0.0.1:8000/redoc
+```
 
 📁 Project Structure
 ```bash
