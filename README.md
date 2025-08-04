@@ -173,6 +173,7 @@ JSON
 
 
 ⚠️ Limitations & Future Work
+```bash
 This implementation uses a simple in-memory dictionary for data storage. This means all notes will be lost when the server restarts.
 
 Potential future improvements include:
@@ -184,6 +185,7 @@ User Authentication: Implement OAuth2 to secure endpoints and manage user-specif
 Error Handling: Add more robust error handling for edge cases.
 
 Containerization: Add a Dockerfile for easy deployment with Docker.
+```
 
 ✨ Acknowledgements
 Built with the amazing FastAPI framework.
